@@ -8,7 +8,7 @@ project_name: "ce_training"
 # }
 application: kitchensink {
   label: "Jesse Test Extension Framework"
-  url: "https://localhost:8080/bundle.js"
+  url: "http://localhost:8080/bundle.js"
   entitlements: {
     local_storage: yes
     navigation: yes
