@@ -14,6 +14,7 @@ application: kitchensink {
     navigation: yes
     new_window: yes
     use_form_submit: yes
+    use_iframes: yes
     use_embeds: yes
     core_api_methods: ["all_connections","search_folders", "run_inline_query", "me", "all_looks", "run_look"]
     external_api_urls: ["http://127.0.0.1:3000", "http://localhost:3000", "https://*.googleapis.com", "https://*.github.com", "https://REPLACE_ME.auth0.com"]
